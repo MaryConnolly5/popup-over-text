@@ -1,3 +1,4 @@
+
 $('.open-popup-words').magnificPopup({
   type:'inline',
   midClick: true .
